@@ -6,5 +6,5 @@ Startup project for J2ME games.
 - Helpers to support lcdui package, screen resolution and graphics
 
 Thanks to collaborators:
-Diogo Autílio
+Diogo Autílio /
 Fábio Attard
