@@ -5,6 +5,8 @@ Startup project for J2ME games.
 - Font, FPS and Sound managers
 - Helpers to support lcdui package, screen resolution and graphics
 
-Thanks to collaborators:
+Created by:
 Diogo Autílio /
 Fábio Attard
+
+J2ME port by Rafael Martins
